@@ -1,6 +1,6 @@
 {
   "name": "onuii-web-eslint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "오누이 프론트엔드 eslint 공통 설정입니다",
   "main": "lib/index.js",
   "license": "UNLICENSED",
