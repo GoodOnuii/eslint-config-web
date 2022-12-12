@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "author": "Jonathan <jonathan@onuii.com> (https://github.com/jonathan-onuii/)",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@onuii/onuii-web-eslint": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
