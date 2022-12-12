@@ -1,5 +1,5 @@
 {
-  "name": "@goodonuii/web-eslint",
+  "name": "@goodonuii/eslint-config-web",
   "version": "0.1.9",
   "description": "오누이 프론트엔드 eslint 공통 설정입니다",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoodOnuii/onuii-web-eslint.git"
+    "url": "https://github.com/GoodOnuii/eslint-config-web.git"
   },
   "devDependencies": {
     "eslint": "^8.29.0",
