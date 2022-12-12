@@ -6,11 +6,11 @@
   "license": "UNLICENSED",
   "author": "Jonathan <jonathan@onuii.com> (https://github.com/jonathan-onuii/)",
   "publishConfig": {
-    "@onuii/onuii-web-eslint": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/octocat/my-other-repo.git"
+    "url": "https://github.com/GoodOnuii/onuii-web-eslint.git"
   },
   "devDependencies": {
     "eslint": "^8.29.0",
