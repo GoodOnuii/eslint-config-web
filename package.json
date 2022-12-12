@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "license": "UNLICENSED",
   "author": "Jonathan <jonathan@onuii.com> (https://github.com/jonathan-onuii/)",
+  "publishConfig": {
+    "@GoodOnuii/onuii-web-eslint": "https://github.com/GoodOnuii/onuii-web-eslint"
+  },
   "devDependencies": {
     "eslint": "^8.29.0",
     "prettier": "^2.8.1",
