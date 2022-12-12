@@ -1,12 +1,12 @@
 {
   "name": "onuii-web-eslint",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "오누이 프론트엔드 eslint 공통 설정입니다",
   "main": "lib/index.js",
   "license": "UNLICENSED",
   "author": "Jonathan <jonathan@onuii.com> (https://github.com/jonathan-onuii/)",
   "publishConfig": {
-    "@GoodOnuii/onuii-web-eslint": "https://github.com/GoodOnuii/onuii-web-eslint"
+    "@GoodOnuii/onuii-web-eslint": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "eslint": "^8.29.0",
