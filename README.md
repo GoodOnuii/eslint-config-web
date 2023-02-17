@@ -14,7 +14,7 @@
 다음 아래와 같이 설치를 진행하시면 됩니다.
 
 ```bash
-$ yarn add -D @goodonuii/eslint-config-web prettier eslint
+$ yarn add -D @seoltab/eslint-config-web prettier eslint
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ $ yarn add -D @goodonuii/eslint-config-web prettier eslint
 ```json
 // .eslintrc.json
 {
-  "extends": ["@goodonuii/eslint-config-web"]
+  "extends": ["@seoltab/eslint-config-web"]
 }
 ```
 
